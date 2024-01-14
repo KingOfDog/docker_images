@@ -59,6 +59,7 @@ packages=(
   python3-venv
   pipx
   lcov
+  socat
 )
 
 apt-get -yq update

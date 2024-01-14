@@ -58,6 +58,7 @@ packages=(
   python3-pip
   python3-venv
   pipx
+  lcov
 )
 
 apt-get -yq update

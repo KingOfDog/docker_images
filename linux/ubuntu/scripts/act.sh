@@ -64,6 +64,15 @@ packages=(
   pipx
   lcov
   socat
+  libglu1-mesa
+  clang
+  cmake
+  ninja-build
+  pkg-config
+  libgtk-3-dev
+  liblzma-dev
+  libstdc++-12-dev
+  xvfb
 )
 
 apt-get -yq update

@@ -48,8 +48,8 @@ jobs:
         PLATFORMS:
           - linux/amd64,linux/arm64,linux/arm/v7
         TAG:
-          # - 22.04
-          - 20.04
+          - 22.04
+          #- 20.04
     steps:
       - uses: actions/setup-go@v5
         with:

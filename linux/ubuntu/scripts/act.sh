@@ -71,7 +71,6 @@ packages=(
   pkg-config
   libgtk-3-dev
   liblzma-dev
-  libstdc++-12-dev
   xvfb
 )
 

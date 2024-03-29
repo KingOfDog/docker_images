@@ -71,7 +71,10 @@ packages=(
   pkg-config
   libgtk-3-dev
   liblzma-dev
+  'libstdc++-12-dev'
   xvfb
+  xdg-user-dirs
+  libblkid1
 )
 
 apt-get -yq update
